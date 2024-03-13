@@ -1,4 +1,4 @@
-Jakub 'knappz' Knapik
+# Jakub 'knappz' Knapik
 
 Skills and Experience
 ⚛ React
