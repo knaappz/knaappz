@@ -1,4 +1,4 @@
-# <h1>Jakub 'knappz' Knapik</h1>
+<h1>Jakub 'knappz' Knapik</h1>
 <h3 align="center">Frontend developer</h3>
 
 - 🔭 I’m currently learning React, Next, Python [fajne_forum_web](https://fajneforum.netlify.app/)
