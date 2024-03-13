@@ -1,7 +1,7 @@
-<h1 align="center">Jakub 'knappz' Knapik</h1>
+<h1 align="center">👋 Jakub 'knappz' Knapik</h1>
 <h3>Frontend developer</h3>
 
-- 🔭 I’m currently learning React, Next, Python [fajne_forum_web](https://fajneforum.netlify.app/)
+- 🔭 I’m currently learning React [fajne_forum_web](https://fajneforum.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
